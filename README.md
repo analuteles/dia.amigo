@@ -1,1 +1,1 @@
-# dia.amigo
+# dia_amigo
